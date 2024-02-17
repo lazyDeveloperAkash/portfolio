@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import Sidebar from '../Sidebar/Sidebar'
+import Sidebar from '../sidebar/Sidebar'
 import FramerMagnetic from './FramerMagnetic';
 
 const Navbar = () => {
