@@ -139,7 +139,7 @@ const Hero = () => {
                                 transform="translate(50 50)"
                                 strokeWidth="0"
                             ></path>
-                            <image href="./hero.png" x="10" y="10" width="75" height="75" />
+                            <image href="./hero.webp" x="10" y="10" width="75" height="75" />
                         </g>
                     </motion.svg>
                 </div>
